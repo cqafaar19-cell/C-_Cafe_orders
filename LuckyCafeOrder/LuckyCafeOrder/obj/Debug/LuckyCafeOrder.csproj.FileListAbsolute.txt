@@ -1,0 +1,10 @@
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\bin\Debug\LuckyCafeOrder.exe.config
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\bin\Debug\LuckyCafeOrder.exe
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\bin\Debug\LuckyCafeOrder.pdb
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\obj\Debug\LuckyCafeOrder.csproj.AssemblyReference.cache
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\obj\Debug\LuckyCafeOrder.Form1.resources
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\obj\Debug\LuckyCafeOrder.Properties.Resources.resources
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\obj\Debug\LuckyCafeOrder.csproj.GenerateResource.cache
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\obj\Debug\LuckyCafeOrder.csproj.CoreCompileInputs.cache
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\obj\Debug\LuckyCafeOrder.exe
+C:\Users\Abdiqafaar\OneDrive\Desktop\LuckyCafeOrder\LuckyCafeOrder\obj\Debug\LuckyCafeOrder.pdb

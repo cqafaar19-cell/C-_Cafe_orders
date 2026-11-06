@@ -1,0 +1,24 @@
+1: Abdiqafar - Coffee - Lucky: 30 - $2.0
+2: Abdiqafar - Coffee - Lucky: 15 - $2.0
+3: Abdiqafar - Coffee - Lucky: 6 - $2.0
+4: Abdiqafar - Coffee - Lucky: 15 - $2.0
+
+Member Discount: 10%
+Total Before Discount: $8.00
+Total After Discount: $7.20
+Lucky Message: No cookie this time.
+Total Price: $7.20
+Lucky Message: No cookie this time.
+
+
+1: ali ahmed - Juice - Lucky: 26 - $3.0
+2: ali ahmed - Juice - Lucky: 45 - $3.0
+
+Member Discount: 10%
+Total Before Discount: $6.00
+Total After Discount: $5.40
+Lucky Message: No cookie this time.
+Total Price: $5.40
+Lucky Message: No cookie this time.
+
+
